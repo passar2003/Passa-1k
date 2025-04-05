@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    color: white;
+}
+#tabela{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-bottom: 5px;
+}
+#coluna{
+    font-size: 20px;
+    padding: 5px;
+}
+#con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#frame{
+    width: 80%;
+    height: 40%;
+}
+#tit{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
