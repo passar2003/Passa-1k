@@ -15,13 +15,11 @@
     padding: 5px;
 }
 #con{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline;
 }
-#frame{
-    width: 80%;
-    height: 40%;
+iframe {
+    width: 100%;
+    margin-bottom: 8px;
 }
 #tit{
     font-size: 25px;
